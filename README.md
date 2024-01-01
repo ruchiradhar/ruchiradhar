@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Ruchira Dhar.
 
 <!--
 **ruchiradhar/ruchiradhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Current Designation: PhD Fellow at the Department of Computer Science, University of Copenhagen
+Past: Analytical Linguist at Flowrite
+Interests: Natural Language Prcoessing, Artificial Intelligence & Cognitive Science
+Contact: ruchiradhar09@gmail.com
+Linkedin: https://www.linkedin.com/in/ruchira-dhar-105427122/
+Twitter: https://twitter.com/eclecticruchira
+Address: Copenhagen, Denmark
