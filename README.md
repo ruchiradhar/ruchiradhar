@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Current Designation: PhD Fellow at the Department of Computer Science, University of Copenhagen
-Past: Analytical Linguist at Flowrite
-Interests: Natural Language Prcoessing, Artificial Intelligence & Cognitive Science
+Current Designation: PhD Fellow at the Department of Computer Science, University of Copenhagen \n
+Past: Analytical Linguist at Flowrite \n
+Interests: Natural Language Prcoessing, Artificial Intelligence & Cognitive Science \n
 Contact: ruchiradhar09@gmail.com
-Linkedin: https://www.linkedin.com/in/ruchira-dhar-105427122/
-Twitter: https://twitter.com/eclecticruchira
+Linkedin: https://www.linkedin.com/in/ruchira-dhar-105427122/ \n
+Twitter: https://twitter.com/eclecticruchira \n
 Address: Copenhagen, Denmark
