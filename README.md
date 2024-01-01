@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Current Designation: PhD Fellow at the Department of Computer Science, University of Copenhagen  
 Past: Analytical Linguist at Flowrite  
 Interests: Natural Language Prcoessing, Artificial Intelligence & Cognitive Science  
-Contact: rudh@di.ku.dk 
+Contact: rudh@di.ku.dk  
 Linkedin: https://www.linkedin.com/in/ruchira-dhar-105427122/  
 Twitter: https://twitter.com/eclecticruchira  
 Address: Copenhagen, Denmark
