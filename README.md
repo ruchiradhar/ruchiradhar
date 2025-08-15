@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 Current Designation: PhD Fellow at the Department of Computer Science, University of Copenhagen  
 Interests: Natural Language Prcoessing, AI Evaluation, AI Governance & Policy
+
 Contact: rudh@di.ku.dk  
 Linkedin: https://www.linkedin.com/in/ruchira-dhar-105427122/  
 Address: Copenhagen, Denmark
